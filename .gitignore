@@ -2,5 +2,6 @@ events/
 /layers/*.class
 *lock.json
 /src/node_modules/**
+!src/.gitkeep
 
 
